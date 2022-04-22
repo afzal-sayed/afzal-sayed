@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayxc&label=Profile%20views&color=0e75b6&style=flat" alt="sayxc" /> </p>
+
 Hi 👋 My name is Afzal Sayyed
 =============================
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayxc&label=Profile%20views&color=0e75b6&style=flat" alt="sayxc" /> </p>
 
 Web designer & developer
 ------------------------
