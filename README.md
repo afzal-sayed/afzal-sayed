@@ -4,7 +4,6 @@ Hi 👋 My name is Afzal Sayyed
 Web designer & developer
 ------------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayxc&label=Profile%20views&color=0e75b6&style=flat" alt="sayxc" /> </p>
 
 About Myself .................
 
@@ -22,6 +21,7 @@ About Myself .................
 src="https://img.shields.io/twitter/follow/SayXC01?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/SayXC" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SayXC?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayxc&label=Profile%20views&color=0e75b6&style=flat" alt="sayxc" /> </p>
 
 ### Skills
 
