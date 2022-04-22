@@ -71,9 +71,9 @@ src="https://img.shields.io/github/followers/SayXC?logo=github&style=for-the-bad
 <a href="https://www.hackerrank.com/sayyed_afzal" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayyed_afzal" height="32" width="32" /></a>
 </p>
 
-### Badges
+## Badges
 
-<b>My GitHub Stats</b>
+**My GitHub Stats**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayxc" alt="sayxc" /></a> </p>
 
