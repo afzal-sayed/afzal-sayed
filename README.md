@@ -10,12 +10,12 @@ Web designer & developer
 About Myself .................
 
 * 🌍  I'm based in Mumbai, India
-* ✉️  You can contact me at **[sayyed0786afzal@gmail.com](mailto:sayyed0786afzal@gmail.com)**
+* ✉️  You can contact me at **[sayyed0786afzal@gmail.com](mailto:sayyed0786afzal@gmail.com)
 * 🔭  I’m currently working on [E-com application](https://github.com/SayXC/shopping-bazaar)
 * 👨‍💻  All of my projects are available at [https://github.com/SayXC](https://github.com/SayXC)
 * 💬  Ask me about **What ever you want**
-* 📄  Know about my experiences {Resume will be upload soon} [*Resume Link*](Resume Link)
-* 🧠  I'm learning ReactJS, PHP, Python, Typescript & DSA
+* 📄  Know about my experiences {Resume will be upload soon} [*Coming Soon](#link)
+* 🧠  I'm learning **ReactJS, PHP, Python, Typescript & DSA
 * 🤝  I'm open to collaborating on Web Based Application, Unique designs & Ideas and last but not the least I wanna collaborate in Some Interesting topics
 * ⚡ Fun fact **Learning different languages and framework all by my own from YouTube and google. When I stuck in something I simply go to stack overflow for the solution.**
 
@@ -40,6 +40,11 @@ src="https://img.shields.io/github/followers/SayXC?logo=github&style=for-the-bad
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
+[//]: # (### Languages and Tools:
+
+<p align="left"> 
+  
+</p>)
 
 ### Socials
 
