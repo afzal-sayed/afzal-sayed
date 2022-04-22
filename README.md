@@ -17,11 +17,11 @@ About Myself .................
 * 🤝  I'm open to collaborating on Web Based Application, Unique designs & Ideas and last but not the least I wanna collaborate in Some Interesting topics
 * ⚡ Fun fact **Learning different languages and framework all by my own from YouTube and google. When I stuck in something I simply go to stack overflow for the solution.**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayxc&label=Profile%20views&color=0e75b6&style=flat" alt="sayxc" /> </p>
 <a href="https://www.twitter.com/SayXC01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SayXC01?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/SayXC" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SayXC?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayxc&label=Profile%20views&color=0e75b6&style=flat" alt="sayxc" /> </p>
 
 ### Skills
 
