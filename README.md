@@ -11,7 +11,7 @@ About Myself .................
 * 🔭  I’m currently working on [E-com application](https://github.com/SayXC/shopping-bazaar)
 * 👨‍💻  All of my projects are available at [https://github.com/SayXC](https://github.com/SayXC)
 * 💬  Ask me about **What ever you want**
-* 📄  Know about my experiences {Resume will be upload soon} [*Resume Link*](*Resume Link*)
+* 📄  Know about my experiences {Resume will be upload soon} [*Resume Link*](Resume Link)
 * 🧠  I'm learning ReactJS, PHP, Python, Typescript & DSA
 * 🤝  I'm open to collaborating on Web Based Application, Unique designs & Ideas and last but not the least I wanna collaborate in Some Interesting topics
 * ⚡ Fun fact **Learning different languages and framework all by my own from YouTube and google. When I stuck in something I simply go to stack overflow for the solution.**
