@@ -4,6 +4,8 @@ Hi 👋 My name is Afzal Sayyed
 Web designer & developer
 ------------------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayxc&label=Profile%20views&color=0e75b6&style=flat" alt="sayxc" /> </p>
+
 About Myself .................
 
 * 🌍  I'm based in Mumbai, India
@@ -52,6 +54,8 @@ src="https://img.shields.io/github/followers/SayXC?logo=github&style=for-the-bad
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayxc" alt="sayxc" /></a> </p>
 
 <a href="http://www.github.com/SayXC"><img src="https://github-readme-stats.vercel.app/api?username=SayXC&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SayXC's GitHub stats" /></a>
 
