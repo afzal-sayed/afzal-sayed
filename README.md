@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/SayXC?logo=github&style=for-the-bad
 </p>
 
 
-**Tools And Software**
+**Tools And Softwares**
 <p align="left">
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a> 
