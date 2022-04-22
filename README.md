@@ -10,7 +10,7 @@ Web designer & developer
 About Myself .................
 
 * 🌍  I'm based in Mumbai, India
-* ✉️  You can contact me at **[sayyed0786afzal@gmail.com](mailto:sayyed0786afzal@gmail.com)
+* ✉️  You can contact me at **[sayyed0786afzal@gmail.com](mailto:sayyed0786afzal@gmail.com)**
 * 🔭  I’m currently working on [E-com application](https://github.com/SayXC/shopping-bazaar)
 * 👨‍💻  All of my projects are available at [https://github.com/SayXC](https://github.com/SayXC)
 * 💬  Ask me about **What ever you want**
@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/SayXC?logo=github&style=for-the-bad
 ### Skills
 
 ## Language 
-**Frameworks 
+**Frameworks** 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
