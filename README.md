@@ -7,9 +7,14 @@ Web designer & developer
 About Myself .................
 
 * 🌍  I'm based in Mumbai, India
-* ✉️  You can contact me at [sayyed0786afzal@gmail.com](mailto:sayyed0786afzal@gmail.com)
+* ✉️  You can contact me at **[sayyed0786afzal@gmail.com](mailto:sayyed0786afzal@gmail.com)**
+* 🔭  I’m currently working on [E-com application](https://github.com/SayXC/shopping-bazaar)
+* 👨‍💻  All of my projects are available at [https://github.com/SayXC](https://github.com/SayXC)
+* 💬  Ask me about **What ever you want**
+* 📄  Know about my experiences {Resume will be upload soon} [*Resume Link*](*Resume Link*)
 * 🧠  I'm learning ReactJS, PHP, Python, Typescript & DSA
 * 🤝  I'm open to collaborating on Web Based Application, Unique designs & Ideas and last but not the least I wanna collaborate in Some Interesting topics
+* ⚡ Fun fact **Learning different languages and framework all by my own from YouTube and google. When I stuck in something I simply go to stack overflow for the solution.**
 
 <a href="https://www.twitter.com/SayXC01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SayXC01?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -35,7 +40,14 @@ src="https://img.shields.io/github/followers/SayXC?logo=github&style=for-the-bad
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/AFZAL#4179" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/SayXC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_sayyed_._afzal_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/afzal-sayed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SayXC01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://discord.com/users/AFZAL#4179" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/SayXC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/_sayyed_._afzal_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/afzal-sayed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.twitter.com/SayXC01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.hackerrank.com/sayyed_afzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayyed_afzal" height="30" width="40" /></a>
+</p>
 
 ### Badges
 
