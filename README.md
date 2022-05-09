@@ -12,7 +12,7 @@ About Myself .................
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at **[sayyed0786afzal@gmail.com](mailto:sayyed0786afzal@gmail.com)**
 * 🔭  I’m currently working on [E-com application](https://github.com/SayXC/shopping-bazaar)
-* 👨‍💻  All of my projects are available at [https://github.com/SayXC](https://github.com/SayXC?tab=repositories)
+* 👨‍💻  All of my projects are available at [SayXC Projects](https://github.com/SayXC?tab=repositories)
 * 💬  Ask me about **What ever you want**
 * 📄  Know about my experiences {Resume will be upload soon} [*Coming Soon](#link)
 * 🧠  I'm learning **ReactJS, PHP, Python, Typescript & DSA**
