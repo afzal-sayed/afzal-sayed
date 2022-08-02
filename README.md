@@ -12,7 +12,7 @@ About Myself .................
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at **[sayyed0786afzal@gmail.com](mailto:sayyed0786afzal@gmail.com)**
 * 🔭  I’m currently working on [E-com application](https://github.com/SayXC/shopping-bazaar)
-* 👨‍💻  All of my projects are available at [SayXC Projects](https://github.com/SayXC?tab=repositories)
+* 👨‍💻  All of my projects are available at [Projects](https://github.com/SayXC?tab=repositories)
 * 💬  Ask me about **What ever you want**
 * 📄  Know about my experiences {Resume will be upload soon} [*Coming Soon](#link)
 * 🧠  I'm learning **ReactJS, PHP, Python, Typescript & DSA**
@@ -21,8 +21,8 @@ About Myself .................
 
 <a href="https://www.twitter.com/SayXC01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SayXC01?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/SayXC" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SayXC?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a><a href="https://www.github.com/afzal-sayed" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/afzal-sayed?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## Skills
 
