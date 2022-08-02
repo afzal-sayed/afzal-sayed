@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayxc&label=Profile%20views&color=0e75b6&style=flat" alt="sayxc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afzal-sayed&label=Profile%20views&color=0e75b6&style=flat" alt="afzal-sayed" /> </p>
 
 Hi 👋 My name is Afzal Sayyed
 =============================
@@ -11,8 +11,8 @@ About Myself .................
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at **[sayyed0786afzal@gmail.com](mailto:sayyed0786afzal@gmail.com)**
-* 🔭  I’m currently working on [E-com application](https://github.com/SayXC/shopping-bazaar)
-* 👨‍💻  All of my projects are available at [Projects](https://github.com/SayXC?tab=repositories)
+* 🔭  I’m currently working on [E-com application](https://github.com/afzal-sayed/shopping-bazaar)
+* 👨‍💻  All of my projects are available at [Projects](https://github.com/afzal-sayed?tab=repositories)
 * 💬  Ask me about **What ever you want**
 * 📄  Know about my experiences {Resume will be upload soon} [*Coming Soon](#link)
 * 🧠  I'm learning **ReactJS, PHP, Python, Typescript & DSA**
@@ -64,7 +64,7 @@ src="https://img.shields.io/github/followers/afzal-sayed?logo=github&style=for-t
 
 <p align="left"> 
 <a href="https://discord.com/users/AFZAL#4179" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/SayXC" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/afzal-sayed" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/_sayyed_._afzal_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>   
 <a href="https://api.whatsapp.com/send/?phone=917021583371&text&app_absent=0" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" /></a> 
 <a href="https://www.linkedin.com/in/afzal-sayed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
@@ -76,19 +76,19 @@ src="https://img.shields.io/github/followers/afzal-sayed?logo=github&style=for-t
 
 **My GitHub Stats**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayxc" alt="sayxc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afzal-sayed" alt="afzal-sayed" /></a> </p>
 
-<a href="http://www.github.com/SayXC"><img src="https://github-readme-stats.vercel.app/api?username=SayXC&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SayXC's GitHub stats" /></a>
+<a href="http://www.github.com/afzal-sayed"><img src="https://github-readme-stats.vercel.app/api?username=afzal-sayed&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="afzal-sayed's GitHub stats" /></a>
 
-<a href="http://www.github.com/SayXC"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SayXC&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/afzal-sayed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=afzal-sayed&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/SayXC"><img src="https://activity-graph.herokuapp.com/graph?username=SayXC&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/afzal-sayed"><img src="https://activity-graph.herokuapp.com/graph?username=afzal-sayed&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/SayXC" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayXC&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/afzal-sayed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzal-sayed&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/SayXC/First_Proj" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayXC&repo=First_Proj&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SayXC/shopping-bazaar" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayXC&repo=shopping-bazaar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/afzal-sayed/First_Proj" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afzal-sayed&repo=First_Proj&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/afzal-sayed/shopping-bazaar" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afzal-sayed&repo=shopping-bazaar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
