@@ -3,7 +3,7 @@
 Hi 👋 My name is Afzal Sayyed
 =============================
 
-Web developer
+Software developer
 ------------------------
 
 About Myself .................
