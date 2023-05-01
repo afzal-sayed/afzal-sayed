@@ -10,11 +10,11 @@ About Myself .................
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at **[sayyed0786afzal@gmail.com](mailto:sayyed0786afzal@gmail.com)**
-* 🔭  I was last working on [E-com application](https://github.com/afzal-sayed/shopping-bazaar)
+* 🔭  My personal Project [E-com application](https://github.com/afzal-sayed/shopping-bazaar)
 * 👨‍💻  All of my projects are available at [Projects](https://github.com/afzal-sayed?tab=repositories)
 * 💬  Ask me about **What ever you want**
 * 📄  Know about my experiences {Resume will be upload soon} [*Coming Soon](#link)
-* 🧠  I'm learning **ReactJS, PHP, Python, Typescript & DSA**
+* 🧠  I'm learning **ReactJS, PHP, Typescript & DSA**
 * 🤝  I'm open to collaborating on Web Based Application, Unique designs & Ideas and last but not the least I wanna collaborate in Some Interesting topics
 * ⚡ Fun fact **Learning different languages and framework all by my own from YouTube and google. When I stuck in something I simply go to stack overflow for the solution.**
 
